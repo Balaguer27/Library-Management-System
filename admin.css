@@ -80,7 +80,7 @@ body {
 
 .box-preview .container-head {
   font-size: 13px;
-  padding-right: 130px;
+  padding-right: 115px;
   font-weight: 500;
 }
 
@@ -91,7 +91,7 @@ body {
 
 .main-sec .box-preview {
   justify-content: space-between;
-  padding: 7 0px 10px 10px 10px;
+  padding: 55px 10px 10px 10px;
 }
 
 .percent-box {
@@ -120,11 +120,10 @@ body {
   border: transparent;
   border-radius: 12px;
   width: 20%;
-  height: 20%;
-  padding: 5px 5px 0 10px;
+  height: 15%;
 }
 
-.total-books {
+.total-visitors p .total-books {
   position: relative;
   text-align: center;
   background: white;
